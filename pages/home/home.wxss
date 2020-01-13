@@ -2,5 +2,4 @@
 .hello{
   color: royalblue;
   font-size: 20px;
-  
 }
