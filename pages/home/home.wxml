@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="hello">hello</text>
+<button size="mini">233</button>

@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.hello{
+  color: royalblue;
+  font-size: 20px;
+  
+}
